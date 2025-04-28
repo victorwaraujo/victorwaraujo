@@ -1,4 +1,4 @@
-## 👋 Olá, sou Victor Araújo!
+## 👋 Olá, sou Victor Araujo!
 
 🎓 Sou Engenheiro Mecânico, apaixonado por tecnologia e atualmente focado no desenvolvimento de software Full Stack.
 
